@@ -1,6 +1,6 @@
 # Hi, I'm Evgeniya Polyakova
 
-📈 Econometric Modeler | 🐍 Python Enthusiast | 🤖 Machine Learning Explorer
+📈 Applied Econometrician| 🐍 Python Enthusiast | 🤖 Machine Learning Explorer
 
  I am a specialist in applied econometrics with an interest in Python and machine learning. 
  
