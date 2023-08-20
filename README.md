@@ -2,7 +2,8 @@
 
 📈 Econometric Modeler | 🐍 Python Enthusiast | 🤖 Machine Learning Explorer
 
- I specialize in econometric modeling, Python, and machine learning. With 5+ years in quantitative economics, I analyze complex data for evidence-based solutions.
+ I am a specialist in applied econometrics with an interest in Python and machine learning. 
+ 
  
 ## 📫 Contact Me
 
