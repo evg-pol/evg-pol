@@ -1,4 +1,4 @@
-# Hi, I'm Evgenia Polyakova
+# Hi, I'm Evgeniya Polyakova
 
 📈 Econometric Modeler | 🐍 Python Enthusiast | 🤖 Machine Learning Explorer
 
@@ -6,8 +6,9 @@
  
 ## 📫 Contact Me
 
-- [<img src="linkedin-icon.png" height="16px" width="16px"/> LinkedIn](https://www.linkedin.com/in/evgenia-polyakova-b36267123/)
-- [<img src="telegram-icon.png" height="16px" width="16px"/> Telegram](@evg_polyak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgeniya-polyakova-b36267123/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@evg_polyak)
+
 
 
 
